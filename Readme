@@ -1,0 +1,3 @@
+PyMusicCleaner takes info from last.fm, edits music tags and renames files and directories.
+
+You need install eyeD3 0.7.0 or higher. http://eyed3.nicfit.net/
